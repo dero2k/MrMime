@@ -30,7 +30,9 @@ COMMON_POKEMON = [
     304,    #Stollunior
     320,    # Wailmer
     325,    # Spoink
-    339     # Barboach
+    339,     # Barboach
+    333,    #swablu
+    276     #taillow 
 ]
 
 
